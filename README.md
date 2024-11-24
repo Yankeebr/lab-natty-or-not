@@ -17,6 +17,7 @@ Utilizei o "ChatGPT" como auxiliar na criação do e-book. a edição final foi 
 
 ## 🚀 Resultados
 Este Ebook elucida muito, no que fazer e como melhorar, ao ultizar ferramentas de IA.
+Link -> https://github.com/Yankeebr/lab-natty-or-not/blob/main/EBOOK%20Aprendendo%20IA.docx
 
 ## 💭 Reflexão (Opcional)
 Criar ese ebook me deu mais conhecimentos de como devo ultilizar a IA e como ela pode me ajudar em várias áreas da minha vida.
